@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Films Quiz</string>
+    <string name="submit">submit</string>
+
+
+    <string name="question_one">What is Christopher Nolan\'s first feature film?</string>
+    <string name="question_one_option_one">Following </string>
+    <string name="question_one_option_two">Inception</string>
+    <string name="question_one_option_three">Dunkirk</string>
+    <string name="question_one_option_forth">Memento</string>
+
+
+    <string name="question_two">How many fuck work used in "Scarface"?</string>
+
+
+    <string name="question_three">Which films directed by Quentin Tarantino?</string>
+    <string name="question_three_option_one">Django</string>
+    <string name="question_three_option_two">Inception</string>
+    <string name="question_three_option_three">True Romance</string>
+    <string name="question_three_option_forth">Pulp Fiction</string>
+
+
+    <string name="question_four">What is the highest rating on IMDB top 250 list?</string>
+    <string name="question_four_option_one">Schindler\'s List</string>
+    <string name="question_four_option_two">Batman vs Superman</string>
+    <string name="question_four_option_three">The Shawshank Redemption</string>
+    <string name="question_four_option_forth">Hamilton</string>
+
+
+</resources>
